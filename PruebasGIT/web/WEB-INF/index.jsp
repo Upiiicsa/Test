@@ -8,5 +8,6 @@
     </head>
     <body>
         <h1>Pruebas de GIt y NEt</h1>
+        <a href="PruebaICA.jsp">Prueba funcional</a>
     </body>
 </html>
